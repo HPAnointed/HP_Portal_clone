@@ -1,0 +1,103 @@
+body{
+	margin: 0px;
+}
+.header{
+	background-color: black;
+	width: 100%;
+	height: 70px;
+	top: 0px;
+}
+.header h3{
+	margin-top: 0px;
+	color: rgb(3, 49, 3);
+	background-color: white;
+	width: 12px;
+	border-radius: 50%;
+	padding: 5px;
+	padding-left: 8px;
+	padding-right: 8px;
+	border: 2px solid rgb(3, 49, 3);
+	display: inline-flex;
+	margin-left: 12%;
+	font-weight: bolder;
+	font-size: 1.2em;
+}
+section h3, p{
+	display: inline-flex;
+}
+section p{
+	color: white;
+	padding-left: 10px;
+	margin-right: 70px;
+}
+span{
+	color: white;
+	font-family: Arial, helvetica, sans-serif;
+	font-weight: 500px;
+}
+.header section i{
+    margin-right: 20px;
+}
+.welcome{
+	background: linear-gradient(176deg, green 70%, rgb(235,232,232) 30%);
+	height: 660px;
+	width: 100%;
+}
+marquee{
+	color: yellow;
+	font-weight: bolder;
+	margin-top: 10%;
+	width: 50%;
+}
+marquee:hover{
+	text-decoration: underline;
+	text-decoration-color: white;
+}
+.welcome section{
+	margin-left: 12%;
+	line-height: 1.3em;
+	letter-spacing: 0.1em;
+	width: 30%;
+}
+.welcome section h1{
+ font-size: 4em;
+ color: white;
+ margin-bottom: 0px;
+ margin-top: 0px;
+}
+button{
+   width: 85%;
+   padding: 3%;
+   border-radius: 50px;
+   background-color: green#284745;
+   border: none;
+}
+button:hover{
+	background-color: green#20943b;
+	border-bottom: 2px solid white;
+}
+form{
+	float: right;
+	width: 30%;
+	position: relative;
+	top: 240px;
+}
+form{
+	display: inline-flex;
+
+}
+.field 1 fieldset{
+	background-color: white;
+	float: right;
+	margin-left: 50px;
+	margin-right: 50px;
+	border-radius: 10px;
+	
+}
+
+
+
+
+
+
+}
